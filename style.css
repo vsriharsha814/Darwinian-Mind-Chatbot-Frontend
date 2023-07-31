@@ -22,18 +22,20 @@ body {
 }
 
 .sidebar-container {
-    flex: 0 0 300px;
-    /* Fixed width for the sidebar */
-    padding-right: 20px;
+    padding-right: 2%;
     height: 100%;
 }
 
 .chatbot-super-container {
     flex: 1;
     padding: 20px;
+    height: 100%;
+    width: 100%;
 }
 
-
+.chatbot {
+    height: 100%;
+}
 
 .user-sub-settings {
     width: 100%;
@@ -193,7 +195,7 @@ message-container {
 }
 
 #conversation {
-    height: 600px;
+    height: 620px;
     overflow-y: auto;
     padding: 20px;
     display: flex;
