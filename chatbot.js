@@ -1,7 +1,7 @@
 // Get chatbot elements
 let uploadedFiles = [];
-// const actionUrl = '/ms/chatbotaction/pages';
-const actionUrl = '/pages';
+const actionUrl = '/ms/chatbotaction/pages';
+// const actionUrl = '/pages';
 const chatbot = document.getElementById('chatbot');
 const conversation = document.getElementById('conversation');
 const inputForm = document.getElementById('input-form');
