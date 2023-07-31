@@ -358,9 +358,9 @@ p[sentTime]:hover::after {
 }
 
 .chat-bot-typing span {
-    width: 4px;
-    height: 4px;
-    background-color: #333;
+    width: 8px;
+    height: 8px;
+    background-color: #696969;
     display: inline-block;
     margin: 1px;
     border-radius: 50%;
